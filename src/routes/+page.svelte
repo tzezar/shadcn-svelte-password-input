@@ -77,12 +77,7 @@
 		<p>2. Use the component in your Svelte file as shown below:</p>
 		<Highlight language={typescript} code={codeHighlight} />
 	</div>
-	<p class="pt-4">
-		Thanks to <a
-			class="font-medium text-primary underline underline-offset-4"
-			href="https://khromov.se/">khromov</a
-		> and Claude for creating the base svelte version.
-	</p>
+
 	<p class="pb-6 italic">
 		If you find the project interesting feel free to give a star on <a
 			class="font-medium text-primary underline underline-offset-4"
