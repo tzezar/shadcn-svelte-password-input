@@ -27,7 +27,7 @@
 			data[key] = value;
 		});
 
-		alert(`Your super secret password id: ${data.pswd}`); // Log the form data as an object
+		alert(`Your super secret password is: ${data.pswd}`); // Log the form data as an object
 	}
 </script>
 
