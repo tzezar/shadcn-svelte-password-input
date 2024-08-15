@@ -50,6 +50,7 @@
 		placeholder="Enter your password"
 	/>
 	<button
+		type="button"
 		class="absolute right-2 cursor-pointer text-foreground hover:text-foreground/65"
 		on:click={togglePasswordVisibility}
 	>
