@@ -70,7 +70,7 @@
 		<p>
 			1. Copy component from <a
 				class="font-medium text-primary underline underline-offset-4"
-				href="https://github.com/tzezar/shadcn-svelte-transfer-list/blob/main/src/lib/components/ui/transfer-list/transfer-list.svelte"
+				href="https://github.com/tzezar/shadcn-svelte-password-input/tree/main/src/lib/components/ui/password-input"
 				>GITHUB REPOSITORY</a
 			> and paste it into your components folder.
 		</p>
