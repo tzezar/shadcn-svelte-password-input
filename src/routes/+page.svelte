@@ -81,7 +81,7 @@
 	<p class="pb-6 italic">
 		If you find the project interesting feel free to give a star on <a
 			class="font-medium text-primary underline underline-offset-4"
-			href="https://github.com/tzezar/shadcn-svelte-transfer-list">github</a
+			href="https://github.com/tzezar/shadcn-svelte-password-input">github</a
 		>. Thanks! ❤️
 	</p>
 </div>
